@@ -43,8 +43,8 @@ const LineChart = ({ xAxisData, yAxisData, title, xLabel, yLabel }: Props) => {
                 labels: xAxisData,
                 datasets: [
                     {
-                        backgroundColor: theme.colors.blue100,
-                        borderColor: theme.colors.primary,
+                        backgroundColor: theme.colors.blueC1,
+                        borderColor: theme.colors.cyanC1,
                         data: yAxisData,
                     },
                 ],

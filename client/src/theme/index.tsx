@@ -28,6 +28,11 @@ const theme = {
         blue800: '#102440',
         blue900: '#040D14',
         blueHeader: '#1A3458',
+        redC1: '#E27D60',
+        blueC1: '#85DCBA',
+        orangeC1: '#E8A87C',
+        purpleC1: '#C38D9E',
+        cyanC1: '#41B3A3',
     },
     fontSizes: {
         xs: '12px',

@@ -13,6 +13,7 @@
       "strictPropertyInitialization": false,
       "importHelpers": true,
       "module": "commonjs",
+      "noImplicitAny": false,
       "outDir": "dist",
       "removeComments": true,
       "sourceMap": true,
